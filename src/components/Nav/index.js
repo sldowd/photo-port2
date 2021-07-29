@@ -32,8 +32,8 @@ function Nav() {
                 </a>
             </h2>
             <nav>
-                <ul classname="flex-row">
-                    <li classname="mx-2">
+                <ul className="flex-row">
+                    <li className="mx-2">
                         <a href="#about">
                             About me
                         </a>
